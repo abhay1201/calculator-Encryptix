@@ -20,7 +20,7 @@ This is an advanced calculator project built using HTML, CSS, and JavaScript. It
 
 1. Clone the repository or download the project files.
     ```bash
-    git clone https://github.com/your-username/advanced-calculator.git
+    git clone https://github.com/abhay1201/advanced-calculator.git
     ```
 2. Navigate to the project directory.
     ```bash
