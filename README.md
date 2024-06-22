@@ -2,7 +2,7 @@
 
 This is an advanced calculator project built using HTML, CSS, and JavaScript. It mimics the appearance and functionality of the iPhone calculator and supports BODMAS (Bracket, Order, Division/Multiplication, Addition/Subtraction) rules for evaluating mathematical expressions.
 ### Live here !!!
-l[click here](https://adv-calculator.netlify.app)
+[click here](https://adv-calculator.netlify.app)
 
 ## Features
 
